@@ -1,0 +1,11 @@
+name: coursera-german-credit
+title: coursera-german-credit
+account: manuvendev
+server: shinyapps.io
+appId: 178688
+bundleId: 818535
+url: https://manuvendev.shinyapps.io/coursera-german-credit/
+when: 1494197205.52328
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
